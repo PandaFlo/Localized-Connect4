@@ -70,7 +70,7 @@ Player 1's turn. Enter column (1-7): 3
 
 - **server.go**: Manages client connections, gameplay logic, and broadcasts moves to clients.
 - **client.go**: Connects to the server, handles user input, and displays game updates.
-- **game.go**: Contains the game logic for Connect 4, including win conditions and board updates.
+
 
 ## Future Enhancements
 
